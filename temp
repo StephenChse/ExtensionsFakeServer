@@ -1,0 +1,14 @@
+//
+//  CustomValidator.js
+//  ExtensionsTest
+//
+//  Created by Stephen Chase on 07/08/20.
+//  Copyright Â© 2020 Stephen Chase. All rights reserved.
+//
+
+var main = function(number) {
+    if (number == 10) {
+        return true;
+    }
+    return false;
+};
