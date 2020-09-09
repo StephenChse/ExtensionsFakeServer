@@ -6,9 +6,9 @@
 //  Copyright Â© 2020 Stephen Chase. All rights reserved.
 //
 
-var main = function(number) {
-    if (number == 10) {
-        return true;
-    }
-    return false;
-};
+{
+    "id": 1,
+    "name": "number validator"
+    "fileUrl": "https://drive.google.com/uc?export=download&id=1yBE5dPbkUiC3GGoW_NndzJq1MORzR9Pj"
+    "fileName":"numberValidator"
+}
