@@ -1,6 +1,14 @@
 {
-    "id": 1,
-    "name": "number validator",
-    "fileUrl": "https://drive.google.com/uc?export=download&id=1yBE5dPbkUiC3GGoW_NndzJq1MORzR9Pj",
-    "fileName": "numberValidator"
+"posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+"comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+"profile": {
+"name": "typicode"
+  }
 }
