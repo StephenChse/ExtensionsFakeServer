@@ -1,10 +1,18 @@
 {
-    "list": [
+    "untuckit": [
         {
             "id": 1,
             "name": "number validator",
             "fileURL": "https://drive.google.com/uc?export=download&id=1yBE5dPbkUiC3GGoW_NndzJq1MORzR9Pj",
             "fileName": "numberValidator.js"
         }
-    ]   
+    ],
+    "decathlon": [
+        {
+            "id": 1,
+            "name": "number validator",
+            "fileURL": "https://drive.google.com/uc?export=download&id=1yBE5dPbkUiC3GGoW_NndzJq1MORzR9Pj",
+            "fileName": "numberValidator.js"
+        }
+    ]
 }
